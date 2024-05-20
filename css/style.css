@@ -1,6 +1,6 @@
 body {
     background-color: #222;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Press Start 2P', bold;
     color: #fff;
     margin: 0;
     padding: 0;
@@ -25,7 +25,7 @@ input[type="text"] {
     color: #fff;
     font-size: 24px;
     text-align: right;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Press Start 2P', bold;
 }
 
 button {
